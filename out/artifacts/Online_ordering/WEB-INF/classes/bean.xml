@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!--配置userServiceImpl-->
+	<bean id="userService" class="com.onlineorder.service.impl.UserServiceImpl"></bean>
+	<bean id="menuService" class="com.onlineorder.service.impl.MenuServiceImpl"></bean>
+	<bean id="adviceService" class="com.onlineorder.service.impl.AdviceServiceImpl"></bean>
+	<bean id="adminMenuService" class="com.onlineorder.service.impl.AdminMenuServiceImpl"></bean>
+	<bean id="userDao" class="com.onlineorder.dao.impl.UserDaoImpl"></bean>
+	<bean id="menuDao" class="com.onlineorder.dao.impl.MenuDaoImpl"></bean>
+	<bean id="adviceDao" class="com.onlineorder.dao.impl.AdviceDaoImpl"></bean>
+	<bean id="adminMenuDao" class="com.onlineorder.dao.impl.AdminMenuDaoImpl"></bean>
+</beans>

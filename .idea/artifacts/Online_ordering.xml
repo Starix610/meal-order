@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Online_ordering">
+    <output-path>$PROJECT_DIR$/out/artifacts/Online_ordering</output-path>
+    <root id="archive" name="Online_ordering.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Online_ordering" />
+        </element>
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/WebContent" />
+    </root>
+  </artifact>
+</component>

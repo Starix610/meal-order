@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body {
+	margin-top: 20px;
+	margin: 0 auto;
+}
+
+font {
+	color: #666;
+	font-size: 22px;
+	font-weight: normal;
+	padding-right: 17px;
+}
+.background{
+	width: 100%; 
+	height:600px;
+	background-image: url('../images/slider4.jpg'); 
+	background-size: 100%;
+}
+.loginDiv{
+	width: 440px; 
+	border: 1px solid #E7E7E7; 
+	padding: 20px 0 20px 30px;
+	border-radius: 5px;
+	background: #fff;
+	float: right;
+	margin-top: 60px;
+    margin-right: 230px;
+}
+.form-horizontal .form-group {
+    margin-right: -80px;
+    margin-left: -15px;
+    margin-top: 20px;

@@ -15,3 +15,6 @@
 + 前端：Bootstrap+Jquery+ajax+HTML5+CSS
 
 ### 预览
+![image](https://github.com/Starix610/hr-system/blob/master/readme_images/login.png)
+![image](https://github.com/Starix610/hr-system/blob/master/readme_images/index.png)
+![image](https://github.com/Starix610/hr-system/blob/master/readme_images/menu.png)

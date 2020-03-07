@@ -5,7 +5,7 @@
     <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
 	<property name="jdbcUrl">jdbc:mysql://localhost:3306/online_order?useSSL=false&amp;serverTimezone=GMT%2B8&amp;characterEncoding=UTF8&amp;autoReconnect=true</property>
 	<property name="user">root</property>
-	<property name="password">646722</property>
+	<property name="password">****</property>
 	<property name="initialPoolSize">5</property>
 	<property name="maxPoolSize">20</property>
   </default-config>
